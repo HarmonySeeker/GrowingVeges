@@ -29,8 +29,9 @@ namespace GrowingVegetables
         public int Harvest()
         {
             state = CellState.Empty;
+            int tempVal = cellCost;
             cellCost = 0;
-            return cellCost;
+            return tempVal;
         }
 
         public void NextState()
