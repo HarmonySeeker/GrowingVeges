@@ -3,3 +3,8 @@ F:\Simulational Modeling (TSU)\GrowingVegetables-master\GrowingVegetables\bin\De
 F:\Simulational Modeling (TSU)\GrowingVegetables-master\GrowingVegetables\obj\Debug\GrowingVegetables.csprojAssemblyReference.cache
 F:\Simulational Modeling (TSU)\GrowingVegetables-master\GrowingVegetables\obj\Debug\GrowingVegetables.exe
 F:\Simulational Modeling (TSU)\GrowingVegetables-master\GrowingVegetables\obj\Debug\GrowingVegetables.pdb
+E:\Downloads\GrowingVeges-master\GrowingVegetables\obj\Debug\GrowingVegetables.csprojAssemblyReference.cache
+E:\Downloads\GrowingVeges-master\GrowingVegetables\obj\Debug\GrowingVegetables.exe
+E:\Downloads\GrowingVeges-master\GrowingVegetables\obj\Debug\GrowingVegetables.pdb
+E:\Downloads\GrowingVeges-master\GrowingVegetables\bin\Debug\GrowingVegetables.exe
+E:\Downloads\GrowingVeges-master\GrowingVegetables\bin\Debug\GrowingVegetables.pdb
